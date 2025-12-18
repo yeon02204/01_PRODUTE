@@ -1,7 +1,7 @@
 
 
 // 서버의 주소와 포트를 명시한다
-export const BASE_URL="http://localhost:8080";
+export const BASE_URL="https://yeon02204.github.io/01_PRODUTE";
 
 // 범용 api fetch 함수 응답상태를 확인하고, json 데이터를 파싱하여 반환
 export async function apiFetch(endpoint,options = {}){
