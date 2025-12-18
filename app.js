@@ -1,4 +1,4 @@
-import { apiFetch } from "./api.js";
+// import { apiFetch } from "./api.js";
 
 //DOM 요소를 참조(등록)
 const itemTableBody = document.querySelector("#itemTableBody");
